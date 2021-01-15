@@ -1,0 +1,63 @@
+ /**
+            primer puntoel header lo quiero en negrita centrado con un borde de abajo de 1 px negro quiero que los videos tengan borde al rededor amarllo de 3 px soido que la fuente sea verdana fuente en general 18 px los lins de 14 estio italic  imagenes 50 ancho 30 alto px desde el css
+    */
+
+body {
+    font-family:verdana;
+    font-size: 18px;
+    
+    color:#333;
+}
+a {
+    font-size: 14px;
+    font-weight: bolder;
+}
+header{padding: 50px;
+border-bottom: 1px solid black;}
+
+h1 {
+    border-bottom:1rem solid black;
+    font-weight:lighter;
+}
+img {
+    width:150px;
+    height:100px;
+    margin: 10px;
+    border: 3px solid black;
+    transition: width 1s ease,height 1s ease;
+}
+video {
+    border:3px solid yellow
+}
+
+span {
+    font-weight:bold;
+    color:violet;
+    font-style: italic;
+    padding: 30px;
+    display: inline-block
+
+}
+span:hover{
+    color:blue;
+    text-decoration:underline;
+    cursor:pointer;
+}
+span:active{
+    font-size: 30px;
+}
+img:hover{
+    width: 200px;
+    height: 60px;
+}
+div {
+    border: 3px  solid black;
+
+}
+.bruno {
+    font-weight: bold;
+}
+#id-de-bruno {
+border:5px dotted green;
+}
+

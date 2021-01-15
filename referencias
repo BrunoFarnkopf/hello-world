@@ -1,0 +1,29 @@
+ver derictorio
+pwd
+
+[bruno@archbox ~]$ pwd
+/home/bruno
+[bruno@archbox ~]$ ls
+Desktop    Downloads   Music     Public     Videos
+Documents  hola-mundo  Pictures  Templates
+[bruno@archbox ~]$ cd hola-mundo/
+[bruno@archbox hola-mundo]$ 
+  
+
+
+  git init
+  iniciar repositorio
+  
+  git  status 
+ s tatus de git
+ git add
+ anade archivo
+ git diff
+
+ git commit -m "mensaje"
+ commit es como salvar 
+
+ git config --list
+configuracion actual
+
+git reset

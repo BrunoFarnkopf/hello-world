@@ -13,7 +13,7 @@ a {
     font-weight: bolder;
 }
 header{padding: 50px;
-border-bottom: 1px solid black;}
+    border-bottom: 1px solid black;}
 
 h1 {
     border-bottom:1rem solid black;
@@ -58,6 +58,30 @@ div {
     font-weight: bold;
 }
 #id-de-bruno {
-border:5px dotted green;
+    border:5px dotted green;
 }
 
+.header-index2 {
+    background-color:black;
+    color: white;
+}
+nav {
+    background-color: yellow;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: right;
+
+
+}
+footer{
+    background-color: brown;
+}
+body{
+    background-color:skyblue;
+}
+.abc{
+    background-color: teal;
+}
+#auto{
+    background-color: gray;
+}
